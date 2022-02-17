@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gimmyxd&ring=5b97f3&currStreakLabel=3881ed&fire=5b97f3)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react&bgColor=%23fffefe&qColor=%233081ec&aColor=%235b97f3)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react&bgColor=%23fffefe&qColor=%2325252c&aColor=%233081ec)
 
 
 
