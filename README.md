@@ -3,9 +3,9 @@
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gimmyxd&count_private=true&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gimmyxd&count_private=true&show_icons=true)](https://github.com/gimmyxd)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gimmyxd&ring=5b97f3&currStreakLabel=3881ed&fire=5b97f3)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gimmyxd&ring=5b97f3&currStreakLabel=3881ed&fire=5b97f3)](https://github.com/gimmyxd)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react&bgColor=%23fffefe&qColor=%2325252c&aColor=%233081ec&textColor=%233081ec)
 
